@@ -6,34 +6,32 @@
 > - Website https://apisbot.xyz
 > - Status https://status.apisbot.xyz 
 
-```
 ### Command list:
 ***apis:***
-`/help` ➜ shows you all Commands 
-`/about` ➜
-`/invite` ➜
+- `/help` ➜ shows you all Commands 
+- `/about` ➜
+- `/invite` ➜
 
 ***Utility:***
-`/serverinfo` ➜
-`/userinfo` ➜
-`/avatar` ➜
-`/broadcast` ➜
+- `/serverinfo` ➜
+- `/userinfo` ➜
+- `/avatar` ➜
+- `/broadcast` ➜
 
 ***Moderation:***
-`/ban` ➜
-`/unban` ➜
-`/mute` ➜
-`/unmute` ➜
-`/kick` ➜
-`/warn` ➜
-`/clear` ➜
-`/lock` ➜
-`/unlock` ➜
-`/tempmute` ➜
-`/tempban` ➜
-`/check` ➜
+- `/ban` ➜
+- `/unban` ➜
+- `/mute` ➜
+- `/unmute` ➜
+- `/kick` ➜
+- `/warn` ➜
+- `/clear` ➜
+- `/lock` ➜
+- `/unlock` ➜
+- `/tempmute` ➜
+- `/tempban` ➜
+- `/check` ➜
 
 ***Settings:***
-`/joinmessage` ➜
-`/modlog` ➜
-```
+- `/joinmessage` ➜
+- `/modlog` ➜
