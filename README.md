@@ -13,9 +13,9 @@
 
 ### Features:
 - extensive server logging 
-- many helpful moderation commands like '/warn' or '/tempban'
+- many helpful moderation commands like `/warn` or `/tempban`
 - many functions to manage your server 
-- useful commands like '/userinfo'or '/avatar'
+- useful commands like `/userinfo` or `/avatar`
 
 ### Command list:
 ***apis:***
