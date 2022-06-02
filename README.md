@@ -1,4 +1,4 @@
 # apis Documentation
 
-###Command list:
+#### Command list:
 /help -> shows you all Commands
