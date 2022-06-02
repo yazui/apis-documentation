@@ -6,6 +6,7 @@
 > - Website https://apisbot.xyz
 > - Status https://status.apisbot.xyz 
 
+```
 ### Command list:
 ***apis:***
 `/help` ➜ shows you all Commands 
@@ -35,3 +36,4 @@
 ***Settings:***
 `/joinmessage` ➜
 `/modlog` ➜
+```
