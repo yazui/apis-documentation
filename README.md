@@ -30,18 +30,18 @@
 - `/broadcast` ➜ sends an embed message
 
 ***Moderation:***
-- `/ban` ➜
-- `/unban` ➜
-- `/mute` ➜
-- `/unmute` ➜
-- `/kick` ➜
-- `/warn` ➜
-- `/clear` ➜
-- `/lock` ➜
-- `/unlock` ➜
-- `/tempmute` ➜
-- `/tempban` ➜
-- `/check` ➜
+- `/ban` ➜ ban a user from your server
+- `/unban` ➜ unban a user from your server
+- `/mute` ➜ mute a user from your server
+- `/unmute` ➜ unmute a user from your server
+- `/kick` ➜ kick a user from your server
+- `/warn` ➜ warn a user from your server
+- `/clear` ➜ clears the chat
+- `/lock` ➜ lock a channel
+- `/unlock` ➜ unlock a channel
+- `/tempmute` ➜ mute a user for a specific time
+- `/tempban` ➜ ban a user for a specific time
+- `/check` ➜ checks for user punishments
 
 ***Settings:***
 - `/joinmessage` ➜
