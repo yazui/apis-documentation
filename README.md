@@ -44,5 +44,5 @@
 - `/check` ➜ checks for user punishments
 
 ***Settings:***
-- `/joinmessage` ➜
-- `/modlog` ➜
+- `/joinmessage` ➜ set a channel for the joinmessage
+- `/modlog` ➜ set a channel for the modlog
