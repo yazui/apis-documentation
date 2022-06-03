@@ -20,14 +20,14 @@
 ### Command list:
 ***apis:***
 - `/help` ➜ shows you all Commands 
-- `/about` ➜
-- `/invite` ➜
+- `/about` ➜ shows you infos and status about apis
+- `/invite` ➜ gives you an invite link for the bot and the support server
 
 ***Utility:***
-- `/serverinfo` ➜
-- `/userinfo` ➜
-- `/avatar` ➜
-- `/broadcast` ➜
+- `/serverinfo` ➜ shows you infos about a server
+- `/userinfo` ➜ shows you infos about a user
+- `/avatar` ➜ shows you the avatar from a user
+- `/broadcast` ➜ sends an embed message
 
 ***Moderation:***
 - `/ban` ➜
