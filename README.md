@@ -9,7 +9,7 @@
 > - Status **»** https://status.apisbot.xyz 
 
 ### Vote:
-> - Discord LIst **»** https://discordlist.gg/bot/881254801344700456/vote
+> - Discord List **»** https://discordlist.gg/bot/881254801344700456/vote
 > - Disforge **»** https://disforge.com/bot/2288-apis
 
 ### Features:
