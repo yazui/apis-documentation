@@ -1,3 +1,5 @@
+![](https://cdn.discordapp.com/attachments/932265928522088450/984368821815083098/header.png)
+
 # apis Documentation
 
 ### `apis` is a JDA based Discord Bot
