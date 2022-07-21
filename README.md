@@ -2,7 +2,7 @@
 
 # apis documentation
 
-### `apis` is a JDA based Discord Bot
+### `apis` is a JDA based Discord Bot.
 
 ### Links:
 > - Invite **»** https://apisbot.xyz/invite
